@@ -1,6 +1,6 @@
 # BSBI
 
-* deployment steps: *
+#### Deployment Steps:
 1) Install Python 2.x and dependencies
   >> pip install -r requirements.txt
 2) Change Configuration.py file with suitable path
